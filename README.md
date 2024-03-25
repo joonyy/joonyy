@@ -4,7 +4,7 @@
 
 ### Graduated
 <div>
-Seoultech, department of computer Engineering
+🏫 Seoultech, department of computer Engineering
 
 </div>
 
